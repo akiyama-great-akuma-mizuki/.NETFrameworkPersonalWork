@@ -1,0 +1,77 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Cors" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson" Version="5.0.10" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\dist\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\app.0971fbec.js" />
+    <None Include="wwwroot\js\app.0971fbec.js.map" />
+    <None Include="wwwroot\js\app.0e6ede35.js" />
+    <None Include="wwwroot\js\app.0e6ede35.js.map" />
+    <None Include="wwwroot\js\app.0f613b4a.js" />
+    <None Include="wwwroot\js\app.0f613b4a.js.map" />
+    <None Include="wwwroot\js\app.152f6994.js" />
+    <None Include="wwwroot\js\app.152f6994.js.map" />
+    <None Include="wwwroot\js\app.3ad40471.js" />
+    <None Include="wwwroot\js\app.3ad40471.js.map" />
+    <None Include="wwwroot\js\app.3f9a9071.js" />
+    <None Include="wwwroot\js\app.3f9a9071.js.map" />
+    <None Include="wwwroot\js\app.46b05224.js" />
+    <None Include="wwwroot\js\app.46b05224.js.map" />
+    <None Include="wwwroot\js\app.53bc7e38.js" />
+    <None Include="wwwroot\js\app.53bc7e38.js.map" />
+    <None Include="wwwroot\js\app.53f64102.js" />
+    <None Include="wwwroot\js\app.53f64102.js.map" />
+    <None Include="wwwroot\js\app.7059171e.js" />
+    <None Include="wwwroot\js\app.7059171e.js.map" />
+    <None Include="wwwroot\js\app.76e36667.js" />
+    <None Include="wwwroot\js\app.76e36667.js.map" />
+    <None Include="wwwroot\js\app.895fe774.js" />
+    <None Include="wwwroot\js\app.895fe774.js.map" />
+    <None Include="wwwroot\js\app.9534ddf8.js" />
+    <None Include="wwwroot\js\app.9534ddf8.js.map" />
+    <None Include="wwwroot\js\app.9a9c134b.js" />
+    <None Include="wwwroot\js\app.9a9c134b.js.map" />
+    <None Include="wwwroot\js\app.9d0fcac1.js" />
+    <None Include="wwwroot\js\app.9d0fcac1.js.map" />
+    <None Include="wwwroot\js\app.a2cb1a47.js" />
+    <None Include="wwwroot\js\app.a2cb1a47.js.map" />
+    <None Include="wwwroot\js\app.c1e1bb74.js" />
+    <None Include="wwwroot\js\app.c1e1bb74.js.map" />
+    <None Include="wwwroot\js\app.dcb5dc0e.js" />
+    <None Include="wwwroot\js\app.dcb5dc0e.js.map" />
+    <None Include="wwwroot\js\app.f3afdc17.js" />
+    <None Include="wwwroot\js\app.f3afdc17.js.map" />
+    <None Include="wwwroot\js\app.f594be3d.js" />
+    <None Include="wwwroot\js\app.f594be3d.js.map" />
+    <None Include="wwwroot\js\app.fbe32b90.js" />
+    <None Include="wwwroot\js\app.fbe32b90.js.map" />
+    <None Include="wwwroot\js\chunk-vendors.2a8f6230.js" />
+    <None Include="wwwroot\js\chunk-vendors.2a8f6230.js.map" />
+    <None Include="wwwroot\js\chunk-vendors.67f5877b.js" />
+    <None Include="wwwroot\js\chunk-vendors.67f5877b.js.map" />
+    <None Include="wwwroot\js\chunk-vendors.69e0bc32.js" />
+    <None Include="wwwroot\js\chunk-vendors.69e0bc32.js.map" />
+    <None Include="wwwroot\js\chunk-vendors.6ea231d8.js" />
+    <None Include="wwwroot\js\chunk-vendors.6ea231d8.js.map" />
+    <None Include="wwwroot\js\chunk-vendors.9418b998.js" />
+    <None Include="wwwroot\js\chunk-vendors.9418b998.js.map" />
+    <None Include="wwwroot\js\chunk-vendors.b681c6c4.js" />
+    <None Include="wwwroot\js\chunk-vendors.b681c6c4.js.map" />
+    <None Include="wwwroot\js\chunk-vendors.e5a5f639.js" />
+    <None Include="wwwroot\js\chunk-vendors.e5a5f639.js.map" />
+  </ItemGroup>
+
+</Project>
